@@ -1,5 +1,7 @@
 # 🌦️ Weather App
 
+live demo :https://sheikmdrafi.github.io/weather-app/
+
 A simple and responsive Weather Application built using **JavaScript** and the **OpenWeatherMap API**. This app allows users to search for any city and get real-time weather updates.
 
 ## ✨ Features
