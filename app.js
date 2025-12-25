@@ -1,4 +1,4 @@
- const apiKey = "";
+ const apiKey = "5df3f99f342c4bc45a90098ad8fb787f";
 
 const main = document.getElementById('main');
 const form = document.getElementById('form');
@@ -52,6 +52,7 @@ async function getWeatherByLocation(city){
         }
 
      });
+
 
 
 
